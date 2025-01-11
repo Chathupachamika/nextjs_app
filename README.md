@@ -1,4 +1,22 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js App
+
+A beginner-friendly Next.js application, bootstrapped with `create-next-app`. This project features auto-optimized fonts, a dynamic development server for real-time updates, and a customizable page structure.
+
+---
+
+## 🚀 Getting Started
+
+To run the development server, use the following commands:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 
 ## Getting Started
 
